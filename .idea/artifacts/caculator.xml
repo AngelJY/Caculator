@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="caculator">
+    <output-path>$PROJECT_DIR$/classes/artifacts/caculator</output-path>
+    <root id="root">
+      <element id="archive" name="test.jar">
+        <element id="module-output" name="test" />
+      </element>
+      <element id="directory" name="libs" />
+    </root>
+  </artifact>
+</component>
